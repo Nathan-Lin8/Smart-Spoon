@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "SensorSpoon This is a test",
+  title: "SensorSpoon - A Critique on Medical Technology Privilege",
   description:
     "A speculative design project examining how medical devices are often designed for the privileged few rather than those who need them most.",
     generator: 'v0.dev'
