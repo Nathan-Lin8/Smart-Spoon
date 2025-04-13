@@ -12,7 +12,7 @@ export default function Home() {
         <div className="container flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
           <div className="flex gap-6 md:gap-10">
             <Link href="/" className="flex items-center space-x-2">
-              <span className="inline-block font-bold">SmartSpoon - This is a test</span>
+              <span className="inline-block font-bold">SmartSpoon</span>
             </Link>
             <nav className="hidden gap-6 md:flex">
               <Link
@@ -25,7 +25,7 @@ export default function Home() {
                 href="#how-it-works"
                 className="flex items-center text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
               >
-                How It Works
+                How Its NOT WORKING Works
               </Link>
               <Link
                 href="#pricing"
